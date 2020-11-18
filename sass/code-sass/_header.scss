@@ -1,13 +1,13 @@
 
 .banner {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.425), rgba(0, 0, 0, 0.425)), url(../img/banner.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.746), rgba(0, 0, 0, 0.746)), 
+    url(../img/banner.jpg);
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
-    
+    height: 90vh;
     overflow: hidden;
     color: ivory;
-    clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
 }
 
 a {
